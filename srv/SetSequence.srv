@@ -1,0 +1,8 @@
+uint8 TYPE_CIRCULAR=0
+uint8 TYPE_FLIPFLOP=1
+uint8 type
+uint8 rate
+uint32 start
+uint32 end
+---
+string error
