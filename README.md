@@ -3,6 +3,8 @@ Message and Service definitions for Bob's ROS Nodes.
 
 ## Messages
 ### TTImage
+Text to image message with payload.\
+Used by bob_transformers.
 
 **Message specification:**  [TTImage.msg](https://github.com/bob-ros2/bob_msgs/blob/main/msg/TTImage.msg)
 > sensor_msgs/Image image\
@@ -11,7 +13,7 @@ Message and Service definitions for Bob's ROS Nodes.
 
 ## Services
 ### SetSequence
-Used by bob_face.bag node to set face animation.
+Used by package bob_face.
 
 **Message specification:** [SetSequence.srv](https://github.com/bob-ros2/bob_msgs/blob/main/srv/SetSequence.srv)
 
