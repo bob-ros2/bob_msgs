@@ -1,4 +1,4 @@
-# ROS Package bob_msgs
+# ROS Package [bob_msgs](https://github.com/bob-ros2/bob_msgs)
 Message and Service definitions for Bob's ROS Nodes.
 
 ## Messages
